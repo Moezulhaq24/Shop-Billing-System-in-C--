@@ -1,0 +1,3 @@
+  101  Noodels  100  5
+  102  Chips  150  2
+  103  HeadnShoulder  400  2
